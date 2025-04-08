@@ -1,0 +1,5 @@
+base_url: https://nextjs-ko.org/docs
+pages:
+  - ""  # 메인 페이지
+  - /getting-started
+  - /getting-started/installation
